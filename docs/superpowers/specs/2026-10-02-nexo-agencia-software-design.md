@@ -43,7 +43,7 @@ Fuera de alcance:
 
 ### Backend
 
-- Node.js, Express y TypeScript.
+- Node.js, Express y JavaScript.
 - Rutas versionadas bajo `/api`.
 - Controladores delgados que delegan en servicios.
 - Validación explícita de payloads.
